@@ -45,9 +45,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<p align="center">
 ![Product Name Screen Shot](ConvectionOvenPCB.png)
-</p>
 
 This is a drop-in replacement of an analog control circuit of the Adler Ad 6304 oven.
 
